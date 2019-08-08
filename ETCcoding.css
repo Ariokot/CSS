@@ -1,0 +1,67 @@
+h2 { color: aqua;
+font-size: 20;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-align: right}
+h1 { color: pink;
+font-style: oblique;
+font-size: 50;
+text-align: center;
+text-transform: uppercase;
+text shadow:3px 2px black;}
+h3 { color:red;
+    font-style: oblique;
+    font-size: 50;
+    text-align: left;
+text-decoration: underline;}
+
+p
+{ background-color: purple; color: seashell;}
+.first {
+    font-weight: bolder;
+    font-size:50;
+    color: blue
+}
+.done {text-decoration: line-through;}
+.third { color: plum; font-weight: bolder}
+#html { text-decoration: line-through;}
+a{
+    text-decoration: none;
+}
+.mydiv{
+    background-color: aqua;
+    width: 50%;
+    height: 50%
+}
+.div-2{
+    background-color: rgb(255, 0, 106);
+    width: 50%;
+    height: 50%;
+    display: inline-block;
+}
+.menu >  div{
+    display: inline-block;
+    background-color: blue;
+    
+    height:10px ;
+}
+.box {
+    padding:10px 20px 40px;
+    background-color: red;
+    border-color:black;
+    border-width: 2px;
+    width: 50%;
+    height:50%;
+    border-radius: 5px
+
+}
+.circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+    background-color: blueviolet;
+
+}
+.list li {
+    display: inline block;
+
+}
